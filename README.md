@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pujan Jani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django, Generative AI**
 
 - 💬 Ask me about **Node.js, Express.js, MongoDB**
 
 - 📫 How to reach me **pujanjani30@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1JiAOrrndGyK4tbNZx9yMbXCb7olPsX9h/view?usp=sharing](https://drive.google.com/file/d/1JiAOrrndGyK4tbNZx9yMbXCb7olPsX9h/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
