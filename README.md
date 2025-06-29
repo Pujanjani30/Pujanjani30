@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently working on Portfolio website.<br><br>💬 Ask me about Node.js, Express.js, MongoDB<br><br>📫 How to reach me pujanjani30@gmail.com<br><br>📄 Resume : https://drive.google.com/file/d/1s03NAGP3UF3eaUQo4-GPiC7eWaDJbw6v/view?usp=drive_link
+🌱 I’m currently working on Portfolio website.<br><br>💬 Ask me about Node.js, Express.js, MongoDB<br><br>📫 How to reach me pujanjani30@gmail.com<br><br>📄 Resume : https://drive.google.com/file/d/1xW-QCbcMpxvylFftJkeC0VgGJZv1GJAy/view?usp=sharing)
 
 
 ## 🌐 Socials:
