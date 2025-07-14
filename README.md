@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Currently leveling up my MERN stack skills while exploring the exciting world of AI.<br><br>💬 Passionate about backend development — ask me about Node.js, Express.js, MongoDB, and related tech.<br><br>📫 Reach me at pujanjani30@gmail.com<br><br>📄 <a href="https://drive.google.com/file/d/1xW-QCbcMpxvylFftJkeC0VgGJZv1GJAy/view?usp=sharing" target="_blank">View My Resume</a>
+🌱 Currently leveling up my MERN stack skills while exploring the exciting world of AI.<br><br>💬 Passionate about backend development - ask me about Node.js, Express.js, MongoDB, and related tech.<br><br>📫 Reach me at pujanjani30@gmail.com<br><br>📄 <a href="https://drive.google.com/file/d/1xW-QCbcMpxvylFftJkeC0VgGJZv1GJAy/view?usp=sharing" target="_blank">View My Resume</a>
 
 
 ## 🌐 Socials:
